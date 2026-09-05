@@ -1,3 +1,7 @@
+# Zerodha Clone
+
+A MERN stack project inspired by Zerodha, built for learning and full-stack development practice.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
